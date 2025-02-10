@@ -23,8 +23,8 @@ The dataset has two categories:
 2. Non-Fire Images
 Each image is resized to 32x32 pixels, converted to a numpy array, and normalized before training.
 
-Go to [Kaggle](https://www.kaggle.com/) to download the dataset
-**Dataset Link:** [Fire Detection Dataset](https://www.kaggle.com/your-dataset-link)
+Go to [Kaggle](https://www.kaggle.com/) to download the dataset : 
+**Dataset Link:** [Fire Detection Dataset](https://www.kaggle.com/datasets/alisamaei/fire-nonfire-images)
 
 ## Models Overview
 
